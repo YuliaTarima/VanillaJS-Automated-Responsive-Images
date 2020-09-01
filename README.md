@@ -1,0 +1,1 @@
+"# VanillaJS-Automated-Responsive-Images" 
